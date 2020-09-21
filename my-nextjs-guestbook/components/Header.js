@@ -11,7 +11,7 @@ export default function Header(props) {
           width="auto"
         />
       </a>
-      <h1 className={headerTitle.className}>Guestbook</h1>
+      <h1 className={headerTitle.className}>Mike's Guestbook</h1>
       {headerBanner.styles}
       {headerTitle.styles}
     </>
